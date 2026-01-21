@@ -38,6 +38,7 @@ for fruit in fruits:
 print("""\n\nRecap:\n
 "print()" is an output
 "list" stores multiple items
-".sort()" rearranges the list into an order
+".sort()" rearranges the list into alphabetical order
 "for item in terms" loops through each item in the list
+
 """)
