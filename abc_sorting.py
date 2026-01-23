@@ -1,3 +1,6 @@
+
+
+
 print("Sorting Program\n\n")
 
 fruits = [
@@ -35,10 +38,4 @@ for fruit in fruits:
 #"for" tells python to go through the list one by one
 #"in" tells python where to get the items from, which is the fruit list
 
-print("""\n\nRecap:\n
-"print()" is an output
-"list" stores multiple items
-".sort()" rearranges the list into alphabetical order
-"for item in terms" loops through each item in the list
 
-""")
